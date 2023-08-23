@@ -1,6 +1,5 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub release](https://img.shields.io/github/release/as-iotex/w3bstream-client-arduino.svg)](https://github.com/as-iotex/w3bstream-client-arduino/releases)
-[![Unit Tests](https://github.com/as-iotex/w3bstream-client-arduino/workflows/Run%20unit%20tests/badge.svg)](https://github.com/as-iotex/w3bstream-client-arduino/actions/workflows/ci.yml)
 [![Arduino CI](https://github.com/as-iotex/w3bstream-client-arduino/workflows/Arduino%20CI/badge.svg)](https://github.com/as-iotex/w3bstream-client-arduino/actions/workflows/arduino-ci.yml)
 [![Code Formatting](https://github.com/as-iotex/w3bstream-client-arduino/workflows/Code%20formatting/badge.svg)](https://github.com/as-iotex/w3bstream-client-arduino/actions/workflows/code-formatting.yml)
 [![Release-please](https://github.com/as-iotex/w3bstream-client-arduino/workflows/release-please/badge.svg)](https://github.com/as-iotex/w3bstream-client-arduino/actions/workflows/release-please.yml)
