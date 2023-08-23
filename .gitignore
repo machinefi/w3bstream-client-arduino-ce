@@ -1,0 +1,11 @@
+build
+.pio
+docs
+xml
+KeywordsTxtGenerator
+Testing
+.vscode
+node_modules
+package-lock.json
+package.json
+NOTES.md
