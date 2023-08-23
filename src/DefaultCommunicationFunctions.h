@@ -1,6 +1,7 @@
 #ifndef __DEFAULT_COMMUNICATION_FUNCTIONS_H__
 #define __DEFAULT_COMMUNICATION_FUNCTIONS_H__
 
+#include "W3bstreamClient.h"
 #include <Arduino.h>
 
 /**
