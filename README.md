@@ -1,8 +1,8 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub release](https://img.shields.io/github/release/as-iotex/w3bstream-client-arduino.svg)](https://github.com/as-iotex/w3bstream-client-arduino/releases)
-[![Arduino CI](https://github.com/as-iotex/w3bstream-client-arduino/workflows/Arduino%20CI/badge.svg)](https://github.com/as-iotex/w3bstream-client-arduino/actions/workflows/arduino-ci.yml)
-[![Code Formatting](https://github.com/as-iotex/w3bstream-client-arduino/workflows/Code%20formatting/badge.svg)](https://github.com/as-iotex/w3bstream-client-arduino/actions/workflows/code-formatting.yml)
-[![Release-please](https://github.com/as-iotex/w3bstream-client-arduino/workflows/release-please/badge.svg)](https://github.com/as-iotex/w3bstream-client-arduino/actions/workflows/release-please.yml)
+[![GitHub release](https://img.shields.io/github/release/machinefi/w3bstream-client-arduino-ce.svg)](https://github.com/machinefi/w3bstream-client-arduino-ce/releases)
+[![Arduino CI](https://github.com/machinefi/w3bstream-client-arduino-ce/workflows/Arduino%20CI/badge.svg)](https://github.com/machinefi/w3bstream-client-arduino-ce/actions/workflows/arduino-ci.yml)
+[![Code Formatting](https://github.com/machinefi/w3bstream-client-arduino-ce/workflows/Code%20formatting/badge.svg)](https://github.com/machinefi/w3bstream-client-arduino-ce/actions/workflows/code-formatting.yml)
+[![Release-please](https://github.com/machinefi/w3bstream-client-arduino-ce/workflows/release-please/badge.svg)](https://github.com/machinefi/w3bstream-client-arduino-ce/actions/workflows/release-please.yml)
 
 # W3bstream Client Arduino Library
 
@@ -39,7 +39,7 @@ To install the W3bstreamClient library using the Arduino IDE, follow these steps
 
 To install the W3bstreamClient library manually, follow these steps:
 
-1. Download the W3bstreamClient library from the [GitHub repository](https://github.com/as-iotex/w3bstream-client-arduino).
+1. Download the W3bstreamClient library from the [GitHub repository](https://github.com/machinefi/w3bstream-client-arduino-ce).
 2. Extract the downloaded ZIP file.
 3. Rename the extracted folder to "W3bstreamClient".
 4. Move the "W3bstreamClient" folder to your Arduino libraries directory. The default locations are:
@@ -90,7 +90,7 @@ Replace <your_board> with the target board/platform for your project (e.g., esp3
 # include <W3bstreamClient.h>
 ```
 
-For detailed information on using the W3bstreamClient library, including usage examples and API reference, please refer to the [Documentation](https://as-iotex.github.io/w3bstream-client-arduino/index.html).
+For detailed information on using the W3bstreamClient library, including usage examples and API reference, please refer to the [Documentation](https://machinefi.github.io/w3bstream-client-arduino-ce/index.html).
 
 ## Compatible Hardware
 

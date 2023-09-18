@@ -14,7 +14,7 @@ Thank you for your interest in contributing to W3bstreamClient! We welcome contr
 
 ## Issue Tracker
 
-If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/as-iotex/w3bstream-client-arduino/issues) on GitHub. Be sure to provide a clear description of the problem or suggestion.
+If you encounter any issues or have suggestions for improvements, please [create an issue](https://github.com/machinefi/w3bstream-client-arduino-ce/issues) on GitHub. Be sure to provide a clear description of the problem or suggestion.
 
 ## License
 
