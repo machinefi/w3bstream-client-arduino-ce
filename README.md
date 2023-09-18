@@ -97,7 +97,6 @@ For detailed information on using the W3bstreamClient library, including usage e
 The W3bstreamClient library has been tested and is compatible with the following hardware:
 
 - ESP32
-- Arduino Nano 33 IoT
 
 Please note that the library may also work with other Arduino-compatible boards, but it has specifically been tested and verified with the above-mentioned hardware.
 
