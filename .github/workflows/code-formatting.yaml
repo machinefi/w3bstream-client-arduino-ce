@@ -11,8 +11,6 @@ jobs:
         path:
           - check: 'src'
             exclude: ''             
-          - check: 'examples'
-            exclude: ''              
     steps:
     - uses: actions/checkout@v3
       
