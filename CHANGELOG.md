@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/machinefi/w3bstream-client-arduino-ce/compare/v1.0.0...v1.0.1) (2023-09-18)
+
+
+### Bug Fixes
+
+* **library.properties:** Remove redundant `url` property from library.properties ([c310bf2](https://github.com/machinefi/w3bstream-client-arduino-ce/commit/c310bf2d9b0f5707c714fcc1987406b37209c70f))
+
 ## 1.0.0 (2023-09-18)
 
 
